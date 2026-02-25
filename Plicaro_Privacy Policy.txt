@@ -9,7 +9,7 @@ You are invited to read this Privacy Policy carefully and familiarise yourself w
 
 1. Objective
 
-This Privacy Policy for Tiley (hereafter "we", "us, "our", the "App") describes what personal data we might collect when you use our App, how and why we might process your personal data, and which rights you have.
+This Privacy Policy for Plicaro (hereafter "we", "us, "our", the "App") describes what personal data we might collect when you use our App, how and why we might process your personal data, and which rights you have.
 
 The main reason why we process personal data is for your gaming experience and for advertisement purposes. We do our best to limit the amount of data we collect to what is strictly necessary.
 
@@ -28,7 +28,7 @@ When you download and use our App, we automatically detect your general location
 
 We collect information automatically about your activity on our App, such as your in-app purchase history and data generated when you use our Appp (for example your game progress, achievements, high scores and other metrics).
 
-When you purchase the "remove ads" in-app purchase in Tiley, advertisements will no longer appear (a restart of the App may be required). Tiley does not ask for your payment information, and you will be redirected to the payment platform associated with your operating system (Google Play on Android/App Store on iOS). For more information on the data they collect, please consult their policies. Tiley only collects and stores the information that remembers whether you purchased the "remove ads" or not.
+When you purchase the "remove ads" in-app purchase in Plicaro, advertisements will no longer appear (a restart of the App may be required). Plicaro does not ask for your payment information, and you will be redirected to the payment platform associated with your operating system (Google Play on Android/App Store on iOS). For more information on the data they collect, please consult their policies. Plicaro only collects and stores the information that remembers whether you purchased the "remove ads" or not.
 
 2.2. We and our third party advertising networks and their partners may use cookies and similar technologies to collect the above categories of data. More information on the use of cookies on our App can be found in our Cookie Policy. Please note that our partners' use of cookies is subject to their own policies and not to this Policy. To refuse cookies or request their deletion as well as obtain the list of partners, please see the Cookie Policy.
 
@@ -83,9 +83,9 @@ We will retain your data only for as long as is necessary for the purposes set o
 
 6.1. In accordance with the GDPR, you have the following rights, within the limits and according to the conditions of the GDPR:
 
-- Right to information: you have the right to be informed about how Tiley processes your data. We respect this right by being transparent and providing you with information in this Policy.
+- Right to information: you have the right to be informed about how Plicaro processes your data. We respect this right by being transparent and providing you with information in this Policy.
 
-- Right of access: you have the right to obtain a confirmation as to whether or not Tiley processes your data, you also have the right to obtain access to the data by requesting a copy showing which data Tiley has about you.
+- Right of access: you have the right to obtain a confirmation as to whether or not Plicaro processes your data, you also have the right to obtain access to the data by requesting a copy showing which data Plicaro has about you.
 
 - Right to rectification: you have the right to obtain the rectification of inaccurate personal data that concerns you.
 
@@ -99,7 +99,7 @@ We will retain your data only for as long as is necessary for the purposes set o
 
 You can exercise your rights by contacting us via email at dejan.nm.ilic.dev@gmail.com.
 
-Please note that Tiley may ask for additional information in order to identify you to ensure that data is disclosed to the correct individual.
+Please note that Plicaro may ask for additional information in order to identify you to ensure that data is disclosed to the correct individual.
 
 6.2. To show you personalised advertisements in our App we use third-party advertising networks and their partners, including those that need your consent and are listed in APPENDIX A and APPENDIX B, to deliver advertisements that are tailored to you based on a determination of your characteristics or interests. To do so they use personal and non-personal information such as advertising identifiers i.e. the Android advertising ID and/or Apple's ID for advertising (IDFA), device data and/or other tracking technologies to enable and optimise this advertising procedure.
 
@@ -144,7 +144,7 @@ In the case a personal data breach is likely to result in a high risk to the rig
 
 9. Children 
 
-Tiley does not knowingly solicit personal data from children or send them requests for personal data. 
+Plicaro does not knowingly solicit personal data from children or send them requests for personal data. 
 
 Although visitors of all ages may navigate through our App, we do not intentionally collect personal data from persons under the age of sixteen. If following a notification by a parent or guardian, or discovery by other means, we become aware that a minor has improperly used our App by using false information, we will delete the child's personal data from our records.
 
