@@ -8,16 +8,16 @@ For support, please contact dejan.nm.ilic.dev@gmail.com.
 
 ## Privacy policy
 
-[Plicaro_Privacy Policy.txt](Plicaro_Privacy Policy.txt)
+[Plicaro_Privacy Policy.txt](Plicaro_Privacy_Policy.txt)
 
-## Cookie policy</summary>
+## Cookie policy
 
-[Plicaro_Cookie Policy.txt](Plicaro_Cookie Policy.txt)
+[Plicaro_Cookie Policy.txt](Plicaro_Cookie_Policy.txt)
 
-## Appendix A</summary>
+## Appendix A
 
-[Plicaro_APPENDIX A.txt](Plicaro_APPENDIX A.txt)
+[Plicaro_APPENDIX A.txt](Plicaro_APPENDIX_A.txt)
 
-## Appendix B</summary>
+## Appendix B
 
-[Plicaro_APPENDIX B.txt](Plicaro_APPENDIX B.txt)
+[Plicaro_APPENDIX B.txt](Plicaro_APPENDIX_B.txt)
